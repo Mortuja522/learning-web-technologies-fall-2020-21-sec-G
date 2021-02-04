@@ -1,0 +1,33 @@
+<students>
+	
+	<student>
+		<SL_NO>23</SL_NO>
+		<NAME>john Carter</NAME>
+		<ADDMISSION_DATE>
+			<DAY>25</DAY>
+			<MANTH>12</MANTH>
+			<YEAR>2015</YEAR>
+		</ADDMISSION_DATE>
+	</student>
+	
+	<student>
+		<SL_NO>29</SL_NO>
+		<NAME>Bob Masrshal</NAME>
+		<ADDMISSION_DATE>
+			<DAY>13</DAY>
+			<MANTH>01</MANTH>
+			<YEAR>1999</YEAR>
+		</ADDMISSION_DATE>
+	</student>
+	
+   <student>
+		<SL_NO>35</SL_NO>
+		<NAME>CLARK kENT</NAME>
+		<ADDMISSION_DATE>
+			<DAY>17</DAY>
+			<MANTH>06</MANTH>
+			<YEAR>2005</YEAR>
+		</ADDMISSION_DATE>
+	</student>
+
+</students>
