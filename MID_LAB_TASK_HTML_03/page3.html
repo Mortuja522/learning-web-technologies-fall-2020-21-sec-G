@@ -1,0 +1,75 @@
+<html>
+<head>
+	<title>Person Profile</title>
+</head>
+<body>
+
+	<form action="" method="">
+		<table border="1" width="100%" >
+			<tr border="0">
+				<td>Name</td>
+				<td><input type="text" name="username" value=""  /></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Email</td>
+				<td> <input type="email" name="email" value="" /> </td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Gender</td>
+				<td>  
+					<input type="radio" name="gender"> Male
+					<input type="radio" name="gender"> Female
+					<input type="radio" name="gender"> Other 
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Date of Birth</td>
+				<td> <input type="date" name="dob" value="" /> </td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Blood Group</td>
+				<td>  
+					<select name="bloodGroup">
+						<option value=""></option>
+						<option value="">A+</option>
+						<option value="">A-</option>
+						<option value="" >B+</option>
+						<option value="" >B-</option>
+						<option value="" >AB+</option>
+						<option value="" >AB-</option>
+						<option value="" >O+</option>
+						<option value="" >O-</option>
+					</select>
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Degree</td>
+				<td>  
+					<input type="checkbox" name="iteam[]" > SSC 
+					<input type="checkbox" name="iteam[]" > HSC 
+					<input type="checkbox" name="iteam[]" > BSc.
+					<input type="checkbox" name="iteam[]" > MSc.
+				</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Photo</td>
+				<td colspan= "2">  
+					<input type="file" name="file" value="">
+				</td>
+			</tr>
+			<tr><td colspan="3"></td></tr>
+			<tr>
+				<td colspan="3" align= "right">
+				<input type="submit" name="click" value="Submit"> 
+				<input type="reset" name="click" value="reset">	
+			</tr>
+		</table>		
+	</form>
+</body>
+</html>
