@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": 11,
+            "email": "admin@gmail.com"
+        },
+        {
+            "username": "m-100",
+            "password": 12,
+            "email": "m1@gmail.com"
+        },
+        {
+            "username": "f-100",
+            "password": 22,
+            "email": "f1@gmail.com"
+        },
+        {
+            "username": "h-100",
+            "password": 33,
+            "email": "h1@gmail.com"
+        },
+        {
+            "username": "m-101",
+            "password": "14",
+            "email": "m101@gmail.com"
+        },
+        {
+            "username": "f-101",
+            "password": "123",
+            "email": "f101@gmail.com"
+        }
+    ]
+}
